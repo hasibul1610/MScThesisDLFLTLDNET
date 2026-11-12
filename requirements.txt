@@ -1,0 +1,10 @@
+tensorflow
+streamlit
+numpy
+Pillow
+opencv-python-headless
+scikit-fuzzy
+matplotlib
+rembg
+scikit-learn
+seaborn
