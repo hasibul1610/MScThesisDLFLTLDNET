@@ -65,9 +65,6 @@ The dataset is not included in this repository. Please refer to the original dat
 
 **Title:** Hybrid AI Model Integrating Deep Learning and Fuzzy Logic for Tomato Leaf Disease Detection and Severity Estimation (DLFL-TLDNet).
 
-## License
-
-The licensing terms for this repository will be specified separately.
 
 ## Contact
 
